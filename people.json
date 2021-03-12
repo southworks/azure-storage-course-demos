@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sam Wills",
+    "age": 45,
+    "zip": "11111"
+  },
+  {
+    "id": 2,
+    "name": "Tammy Wilhelm",
+    "age": 34,
+    "zip": "11111"
+  },
+  {
+    "id": 3,
+    "name": "Mary Mongomery",
+    "age": 19,
+    "zip": "11111"
+  },
+  {
+    "id": 4,
+    "name": "Amanda Lint",
+    "age": 82,
+    "zip": "22222"
+  },
+  {
+    "id": 5,
+    "name": "Phil Smolder",
+    "age": 35,
+    "zip": "22222"
+  }
+]
